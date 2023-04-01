@@ -1,30 +1,25 @@
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+## 个人主页
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+好看的个人主页，个人主页源码，博客主页模板.**🉑️随意使用，无限制。**
 
+预览地址：[https://wexuo.github.io/home](https://wexuo.github.io/home)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## 集成插件
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
+- [x] [typed 打字机特效](https://github.com/mattboldt/typed.js/)
+- [x] [Aplayer 音乐播放插件](https://github.com/MoePlayer/APlayer)
+- [x] [Meting 强大的 Aplayer 辅助插件](https://github.com/metowolf/MetingJS)
+- [x] [不蒜子计数](http://busuanzi.ibruce.info/)
+- [x] [看板娘](https://github.com/stevenjoezhang/live2d-widget)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## 集成API
 
----
+- [x] [一言](https://hitokoto.cn/)
+- [x] [今日诗词](https://www.jinrishici.com/)
+- [x] [随机图片](https://api.ixiaowai.cn/api/api.php) 
+
+## 好玩的
+
+- [x] 点击冒点
+- [x] 雪花
+- [x] 搞怪标题栏 
