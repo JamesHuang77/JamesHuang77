@@ -132,7 +132,7 @@
 
 <div align='center'>
 
-## <b>Never Give UP...✨</b>
+## <b>Never Give Up...✨</b>
 
 </div>
 <br>
